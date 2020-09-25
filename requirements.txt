@@ -3,5 +3,5 @@ numpy==1.17.2
 joblib==0.13.2
 matplotlib==3.1.1
 scikit-learn==0.20.4
-tensorflow==2.0.0
+tensorflow==2.0.3
 googledrivedownloader==0.4
